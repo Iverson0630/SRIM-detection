@@ -96,7 +96,7 @@ Our model for SRIM dataset and Sim10k2cityscape model can be downloaded in [Goog
 
    Use tsne for Feature Visualization.
 
-   ![image-20231116152123086](F:\研究生\周总结\typora_img\image-20231116152123086.png)
+   ![image-20231116152123086](result_img/tsne.png)
 
 4. ``visual_result.ipynb``
 
