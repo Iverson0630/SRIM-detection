@@ -40,9 +40,7 @@ In ``model.roi_head.bbox_head``, you can change the weight for ``loss_class_cls`
 
 **customized dataset**:
 
-If you want to use your own dataset, the dataset should be organized in coco style, we provide script to transfer yolo and cityspace style into coco style in 
-
-script folder: ``cityscape2yolo.py`` and ``yolo2coco.py``
+If you want to use your own dataset, the dataset should be organized in coco style, we provide script to transfer yolo and cityspace style into coco style in script folder: ``cityscape2yolo.py`` and ``yolo2coco.py``
 
 Then replace the image path and annotation path in config file.
 
