@@ -108,11 +108,11 @@ Our model for SRIM dataset and Sim10k2cityscape model can be downloaded in [Goog
 @ARTICLE{10319322,
   author={Zeng, Ming and Zhong, Shutong and Ge, Leijiao},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Few-shot Industrial Meter Detection Based on Sim-to-Real Domain Adaptation and Category Augmentation}, 
-  year={2023},
-  volume={},
+  title={Few-Shot Industrial Meter Detection Based on Sim-to-Real Domain Adaptation and Category Augmentation}, 
+  year={2024},
+  volume={73},
   number={},
-  pages={1-1},
+  pages={1-10},
   doi={10.1109/TIM.2023.3332939}}
 ```
 
